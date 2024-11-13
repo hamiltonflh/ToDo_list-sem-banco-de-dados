@@ -18,6 +18,13 @@ function adicionarTarefa(){
     item.appendChild(checkbox);
     item.appendChild(label);
     textInput.value = ""
+    checkbox.addEventListener("change", () => {
+        if(!(checkbox.checked)){
+            label.style.textDecoration = "none";
+        } else{
+            label.style.textDecoration = "line-through"; 
+        }     
+    });
 }
 
 btn.addEventListener("click", adicionarTarefa);
