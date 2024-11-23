@@ -46,7 +46,7 @@ section > h1{
     margin-bottom: 20px;
 }
 
-section > h3#titulo_sem_tarefa {
+section > .tarefas > h3#titulo_sem_tarefa {
     margin: 50px 50px;
 }
 
