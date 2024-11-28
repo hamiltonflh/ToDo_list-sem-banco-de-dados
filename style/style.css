@@ -223,7 +223,7 @@ input:focus {
     pointer-events: none;
 }  
 
-.tarefa_done > button:hover{
+.tarefas > .tarefa_done > button:hover{
     color:white;
     background-color: var(--cor3);
 }  
