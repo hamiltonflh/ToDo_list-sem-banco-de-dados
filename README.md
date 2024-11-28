@@ -1,21 +1,19 @@
-Projeto To-Do List Simples
-
-# To-Do List Simples
+# Projeto To-Do List Simples
 
 Uma aplicação web para gerenciar suas tarefas diárias, construída com HTML, CSS e JavaScript puro.
 
-## ️ Tecnologias Utilizadas
+## ️Tecnologias Utilizadas
 
 * **HTML:** Estrutura da página
 * **CSS:** Estilização da interface
 * **JavaScript:** Lógica da aplicação
 
-##  Como Usar
+## Como Usar
 
 1. **Clone o repositório:**
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/hamiltonflh/ToDo_list-sem-banco-de-dados.git](https://github.com/hamiltonflh/ToDo_list-sem-banco-de-dados.git)
 
 Use o código com cuidado.
 
@@ -43,5 +41,5 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mai
 
 Autor
 Hamilton Filho
-fillhoh12@gmail.com
+<fillhoh12@gmail.com>
 linkedin.com/in/hamilton-filho-48459720a
